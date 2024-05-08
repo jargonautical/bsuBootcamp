@@ -1,0 +1,10 @@
+Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,Output,Feedback,Deliveroo,Just_Eat,UberEats,Deliveroo_Usage_Frequency,Just_Eat_Satisfaction_Rating,UberEats_Order_Amount,Address,Postcode
+20,Female,Single,Student,No Income,Post Graduate,4,Yes,Positive,1,0,1,3,4.5,25.5,10 Elm St,BA2 3AA
+24,Female,Single,Student,Below Rs.10000,Graduate,3,Yes,Positive,0,1,1,2,3.2,30.2,15 Pine St,BA1 4BB
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,Yes,Negative,1,1,0,0,4.8,0.0,20 Cedar St,BA1 6CC
+22,Female,Single,Student,No Income,Graduate,6,Yes,Positive,1,0,1,1,2.1,15.7,25 Oak St,BA2 8DD
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,Yes,Positive,0,0,1,0,4.3,0.0,30 Maple St,BA1 9EE
+27,Female,Married,Employee,More than 50000,Post Graduate,2,Yes,Positive,1,0,1,2,3.9,22.3,35 Birch St,BA1 7FF
+22,Male,Single,Student,No Income,Graduate,3,Yes,Positive,1,0,0,0,4.0,0.0,40 Walnut St,BA2 5GG
+24,Female,Single,Student,No Income,Post Graduate,3,Yes,Positive,1,0,1,3,4.7,28.6,45 Chestnut St,BA2 1HH
+23,Female,Single,Student,No Income,Post Graduate,2,Yes,Positive,1,1,0,1,4.6,18.9,50 Spruce St,BA1 2II
