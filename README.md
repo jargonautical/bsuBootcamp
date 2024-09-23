@@ -1,2 +1,2 @@
 # bsuBootcamp  
-Assets and resources for BSU Data and Analysis Bootcamp
+Deprecated assets and resources for bootcamp
